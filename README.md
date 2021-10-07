@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Kunal Chaturvedi, an Android developer from India</h1>
+<h1 align="center">Hey there 👋, I'm Kunal Chaturvedi</h1>
+<h2 align="center">I'm an Android developer from India</h2>
 <h3 align="center">eat, sleep, commit repeat.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalcodes&label=Profile%20views&color=0e75b6&style=flat" alt="kunalcodes" /> </p>
