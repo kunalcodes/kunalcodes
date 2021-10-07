@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7055
-Fork on GitHub
-1340
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hey there 👋, I'm Kunal Chaturvedi, an Android developer from India</h1>
 <h3 align="center">eat, sleep, commit repeat.</h3>
 
