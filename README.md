@@ -40,7 +40,7 @@
 <br/>
 
 
-<a href="https://github.com/kunalcodes/github-readme-activity-graph"><img alt="Kunal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalcodes&bg_color=FFFFFF&color=4287f5&line=4287f5&point=4287f5&hide_border=true" /></a>
+[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunalcodes&theme=minimal)](https://github.com/kunalcodes/github-readme-activity-graph)
 
 
 
